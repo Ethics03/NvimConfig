@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "parso": "^0.1.0",
+    "tree-sitter-cli": "^0.23.0"
+  }
+}
