@@ -3,4 +3,5 @@
 
 
 CocInstall <language-server-name>
+
 PackerSync -> for updating packages and adding new ones
